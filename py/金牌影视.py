@@ -221,5 +221,11 @@ class Spider(Spider):
         return field
 
     def getvod(self, array):
-        return [{self.convert_field_name(k): v for k, v in item.items()} for item in array]
+    return [
+        {
+            self.convert_field_name(k): ("ShowStar✨阿星✨为您介绍剧情✨" + v if k.lower() == 'vod_remarks' else v)
+            for k, v in item.items()
+        }
+        for item in array
+    ]
 
