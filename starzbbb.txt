@@ -1,4 +1,4 @@
-央视📺️星影视✨星视界,#genre#
+羊仕📺️星影视✨星视界,#genre#
 CCTV1,http://106.46.114.7:8011/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://106.46.114.7:8011/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://106.46.114.7:8011/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -17,7 +17,7 @@ CCTV14,http://106.46.114.7:8011/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&au
 CCTV15,http://106.46.114.7:8011/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 
 
-卫视📺️星影视✨星视界,#genre#
+卫士📺️星影视✨星视界,#genre#
 湖南卫视,http://106.46.114.7:8011/tsfile/live/0128_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视,http://106.46.114.7:8011/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视,http://106.46.114.7:8011/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -82,3 +82,7 @@ jian_2,https://stream.ijatv.com/jatv2/playlist.m3u8?_upt=5106f3ff1746636561
 西游记续集14,https://vip.ffzy-play10.com/20230125/19102_f2ef4ab0/index.m3u8
 西游记续集15,https://vip.ffzy-play10.com/20230125/19104_16fbb6b2/index.m3u8
 西游记续集16,https://vip.ffzy-play10.com/20230125/19103_bde5805b/index.m3u8
+
+娱Le锻炼,#genre#
+Wu梦梦①,https://atukjhesk.com/20250221/L8J1xtv3/2000kb/hls/index.m3u8
+篠田vs松本,https://atukjhesk.com/20240821/pa4V2VHt/index.m3u8
