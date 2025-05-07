@@ -38,6 +38,8 @@ CCTV15,http://106.46.114.7:8011/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&au
 贵州卫视,http://106.46.114.7:8011/tsfile/live/0120_1.m3u8?key=txiptv&playlive=0&authid=0
 辽宁卫视,http://106.46.114.7:8011/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 陕西卫视,http://106.46.114.7:8011/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+jian_1,https://stream.ijatv.com/jatv1/playlist.m3u8?_upt=c164c5081746636348
+jian_2,https://stream.ijatv.com/jatv2/playlist.m3u8?_upt=5106f3ff1746636561
 
 西游记,#genre#
 西游记1,https://www.4k-av.com/tv/106855-journey-to-the-west-ep01/720P/wxqogb.m3u8
